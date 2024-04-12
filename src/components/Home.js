@@ -2,7 +2,6 @@ import React from 'react'
 import about from "../assets/images/about-img.jpg"
 import client from "../assets/images/client-1.jpg"
 import client2 from "../assets/images/client-2.jpg"
-import construction from "../assets/images/construction.svg"
 import slider from "../assets/images/slider-img.png"
 import professional from "../assets/images/professional-img.png"
 
