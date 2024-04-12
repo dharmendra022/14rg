@@ -14,13 +14,13 @@ const Home = () => {
                     <div class="header_top">
                         <div class="container-fluid">
                             <div class="contact_nav">
-                                <a >
+                                <a href="#">
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     <span>
                                         Call : +01 123455678990
                                     </span>
                                 </a>
-                                <a >
+                                <a href="#">
                                     <i class="fa fa-envelope" aria-hidden="true"></i>
                                     <span>
                                         Email : demo@gmail.com
@@ -76,7 +76,7 @@ const Home = () => {
                                     <p>
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui harum voluptatem adipisci. Quos molestiae saepe dicta nobis pariatur, tempora iusto, ad possimus soluta hic praesentium mollitia consequatur beatae, aspernatur culpa.
                                     </p>
-                                    <a >
+                                    <a href="#">
                                         Contact Us
                                     </a>
                                 </div>
@@ -155,7 +155,7 @@ const Home = () => {
                                 <p>
                                     There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomisedThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised
                                 </p>
-                                <a >
+                                <a href="#">
                                     Read More
                                 </a>
                             </div>
@@ -260,7 +260,7 @@ const Home = () => {
                         </div>
                     </div>
                     <div class="btn-box">
-                        <a >
+                        <a href="#">
                             View More
                         </a>
                     </div>
@@ -451,7 +451,7 @@ const Home = () => {
                             <div class="info_items">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <a >
+                                        <a href="#">
                                             <div class="item ">
                                                 <div class="img-box ">
                                                     <i class="fa fa-map-marker" aria-hidden="true"></i>
@@ -463,7 +463,7 @@ const Home = () => {
                                         </a>
                                     </div>
                                     <div class="col-md-4">
-                                        <a >
+                                        <a href="#">
                                             <div class="item ">
                                                 <div class="img-box ">
                                                     <i class="fa fa-phone" aria-hidden="true"></i>
@@ -475,7 +475,7 @@ const Home = () => {
                                         </a>
                                     </div>
                                     <div class="col-md-4">
-                                        <a >
+                                        <a href="#">
                                             <div class="item ">
                                                 <div class="img-box">
                                                     <i class="fa fa-envelope" aria-hidden="true"></i>
@@ -496,16 +496,16 @@ const Home = () => {
                         Follow Us
                     </h4>
                     <div class="box">
-                        <a >
+                        <a href="#">
                             <i class="fa fa-facebook" aria-hidden="true"></i>
                         </a>
-                        <a >
+                        <a href="#">
                             <i class="fa fa-twitter" aria-hidden="true"></i>
                         </a>
-                        <a >
+                        <a href="#">
                             <i class="fa fa-youtube" aria-hidden="true"></i>
                         </a>
-                        <a >
+                        <a href="#">
                             <i class="fa fa-instagram" aria-hidden="true"></i>
                         </a>
                     </div>
