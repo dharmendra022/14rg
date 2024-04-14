@@ -17,7 +17,7 @@ const Home = () => {
                                 <a href="/home">
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     <span>
-                                    &nbsp;  Call : +1 (724) 604-5949
+                                        Call : +1 (724) 604-5949
                                     </span>
                                 </a>
                                 <a href="/home">
@@ -69,11 +69,12 @@ const Home = () => {
                             <div class="col-md-6 ">
                                 <div class="detail-box">
                                     <h1>
-                                    Instant IT  <br />
-                                    Services <br />
+                                        Repair and <br />
+                                        Maintenance <br />
+                                        Services
                                     </h1>
                                     <p>
-                                    Unlimited help desk support. 24/7 expert assistance via phone, email, or chat. Dedicated team, remote troubleshooting, software & hardware help.
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui harum voluptatem adipisci. Quos molestiae saepe dicta nobis pariatur, tempora iusto, ad possimus soluta hic praesentium mollitia consequatur beatae, aspernatur culpa.
                                     </p>
                                     <a href="/home">
                                         Contact Us
