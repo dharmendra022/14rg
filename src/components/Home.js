@@ -17,13 +17,13 @@ const Home = () => {
                                 <a href="/home">
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     <span>
-                                        Call : +01 123455678990
+                                    &nbsp;  Call : +1 (724) 604-5949
                                     </span>
                                 </a>
                                 <a href="/home">
-                                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                                    {/* <i class="fa fa-envelope" aria-hidden="true"></i> */}
                                     <span>
-                                        Email : demo@gmail.com
+                                        {/* Email : demo@gmail.com */}
                                     </span>
                                 </a>
                             </div>
@@ -34,7 +34,7 @@ const Home = () => {
                             <nav class="navbar navbar-expand-lg custom_nav-container ">
                                 <a class="navbar-brand" href="index.html">
                                     <span>
-                                        Demo
+                                    Instant IT services
                                     </span>
                                 </a>
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -69,12 +69,11 @@ const Home = () => {
                             <div class="col-md-6 ">
                                 <div class="detail-box">
                                     <h1>
-                                        Repair and <br />
-                                        Maintenance <br />
-                                        Services
+                                    Instant IT  <br />
+                                    Services <br />
                                     </h1>
                                     <p>
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui harum voluptatem adipisci. Quos molestiae saepe dicta nobis pariatur, tempora iusto, ad possimus soluta hic praesentium mollitia consequatur beatae, aspernatur culpa.
+                                    Unlimited help desk support. 24/7 expert assistance via phone, email, or chat. Dedicated team, remote troubleshooting, software & hardware help.
                                     </p>
                                     <a href="/home">
                                         Contact Us
