@@ -74,7 +74,7 @@ const Home = () => {
                                         Services
                                     </h1>
                                     <p>
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui harum voluptatem adipisci. Quos molestiae saepe dicta nobis pariatur, tempora iusto, ad possimus soluta hic praesentium mollitia consequatur beatae, aspernatur culpa.
+                                        We are skilled service and support team work directly with customers and partners with a network of certified distributor partners in all global areas.
                                     </p>
                                     <a href="/home">
                                         Contact Us
@@ -153,7 +153,7 @@ const Home = () => {
                                     About us
                                 </h2>
                                 <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomisedThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised
+                                    Our Experts Provide Home Repair For Broken Windows, Screen Doors, Drywall, And More. Wide Range Of Services. Call <a href="tel:+1(724)604-5949">+1 (724) 604-5949 </a> for a Free Estimate!
                                 </p>
                                 <a href="/home">
                                     Read More
@@ -189,7 +189,7 @@ const Home = () => {
                                     Home Services.
                                 </h2>
                                 <p>
-                                    randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All randomised words which don't look even slightly
+                                    We were born through over 10 years of trade experience. We are proud to offer our services in both residential, commercial and restaurant maintenance.
                                 </p>
                                 <a href="/home">
                                     Read More
@@ -220,8 +220,7 @@ const Home = () => {
                                         Maintenance
                                     </h5>
                                     <p>
-                                        when looking at its layout. The point of using Lorem Ipsum is
-                                        that it has a more-or-less normal
+                                        These service technicians are experts in maintaining and servicing all forms of material handling equipment.
                                     </p>
                                 </div>
                             </div>
@@ -236,8 +235,7 @@ const Home = () => {
                                         Electrical
                                     </h5>
                                     <p>
-                                        when looking at its layout. The point of using Lorem Ipsum is
-                                        that it has a more-or-less normal
+                                        Our Expert Electricians Provide A Wide Variety Of Electrical Services. Service You Can Trust. Call <a href="tel:+1(724)604-5949">+1 (724) 604-5949 </a> to Request an Appointment!
                                     </p>
                                 </div>
                             </div>
@@ -252,8 +250,7 @@ const Home = () => {
                                         Plumbing
                                     </h5>
                                     <p>
-                                        when looking at its layout. The point of using Lorem Ipsum is
-                                        that it has a more-or-less normal
+                                        Our plumbing services are delivered fast and around the clock. Call for your free estimate or schedule an appointment online today!
                                     </p>
                                 </div>
                             </div>
@@ -269,176 +266,9 @@ const Home = () => {
 
             {/* <!-- end service section -->
 
-  <!-- client section --> */}
+  
 
-            <section class="client_section ">
-                <div class="container">
-                    <div class="heading_container heading_center">
-                        <h2>
-                            What Our Clients Say
-                        </h2>
-                    </div>
-                    <div class="carousel-wrap layout_padding2-top ">
-                        <div class="owl-carousel">
-                            <div class="item">
-                                <div class="box">
-                                    <div class="client_id">
-                                        <div class="img-box">
-                                            <img src={client} alt="" />
-                                        </div>
-                                        <div class="client_detail">
-                                            <div class="client_info">
-                                                <h6>
-                                                    Jorch morik
-                                                </h6>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                            </div>
-                                            <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                        </div>
-                                    </div>
-                                    <div class="client_text">
-                                        <p>
-                                            chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="box">
-                                    <div class="client_id">
-                                        <div class="img-box">
-                                            <img src={client2} alt="" />
-                                        </div>
-                                        <div class="client_detail">
-                                            <div class="client_info">
-                                                <h6>
-                                                    Jorch morik
-                                                </h6>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                            </div>
-                                            <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                        </div>
-                                    </div>
-                                    <div class="client_text">
-                                        <p>
-                                            chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="box">
-                                    <div class="client_id">
-                                        <div class="img-box">
-                                            <img src={client} alt="" />
-                                        </div>
-                                        <div class="client_detail">
-                                            <div class="client_info">
-                                                <h6>
-                                                    Jorch morik
-                                                </h6>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                            </div>
-                                            <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                        </div>
-                                    </div>
-                                    <div class="client_text">
-                                        <p>
-                                            chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="box">
-                                    <div class="client_id">
-                                        <div class="img-box">
-                                            <img src={client2} alt="" />
-                                        </div>
-                                        <div class="client_detail">
-                                            <div class="client_info">
-                                                <h6>
-                                                    Jorch morik
-                                                </h6>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                                <i class="fa fa-star" aria-hidden="true"></i>
-                                            </div>
-                                            <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                        </div>
-                                    </div>
-                                    <div class="client_text">
-                                        <p>
-                                            chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            {/* <!-- end client section -->
-
-  <!-- contact section --> */}
-
-            <section class="contact_section layout_padding">
-                <div class="container">
-                    <div class="heading_container">
-                        <h2>
-                            Contact Us
-                        </h2>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <form action="">
-                                <div>
-                                    <input type="text" placeholder="Name" />
-                                </div>
-                                <div>
-                                    <input type="text" placeholder="Phone Number" />
-                                </div>
-                                <div>
-                                    <input type="email" placeholder="Email" />
-                                </div>
-                                <div>
-                                    <input type="text" class="message-box" placeholder="Message" />
-                                </div>
-                                <div class="d-flex ">
-                                    <button>
-                                        SEND
-                                    </button>
-                                </div>
-                            </form>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="map_container">
-                                <div class="map">
-                                    <div id="googleMap" style={{ width: "100%", height: "100%" }}></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            {/* <!-- end contact section --> */}
-
+  
 
             {/* <!-- info section --> */}
             <section class="info_section ">
@@ -469,7 +299,7 @@ const Home = () => {
                                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                                 </div>
                                                 <p>
-                                                    +02 1234567890
+                                                    <a href="tel:+1(724)604-5949">+1 (724) 604-5949 </a>
                                                 </p>
                                             </div>
                                         </a>
@@ -481,7 +311,8 @@ const Home = () => {
                                                     <i class="fa fa-envelope" aria-hidden="true"></i>
                                                 </div>
                                                 <p>
-                                                    demo@gmail.com
+                                                    johnpoor15@gmail.com
+
                                                 </p>
                                             </div>
                                         </a>
@@ -491,25 +322,7 @@ const Home = () => {
                         </div>
                     </div>
                 </div>
-                <div class="social-box">
-                    <h4>
-                        Follow Us
-                    </h4>
-                    <div class="box">
-                        <a href="/home">
-                            <i class="fa fa-facebook" aria-hidden="true"></i>
-                        </a>
-                        <a href="/home">
-                            <i class="fa fa-twitter" aria-hidden="true"></i>
-                        </a>
-                        <a href="/home">
-                            <i class="fa fa-youtube" aria-hidden="true"></i>
-                        </a>
-                        <a href="/home">
-                            <i class="fa fa-instagram" aria-hidden="true"></i>
-                        </a>
-                    </div>
-                </div>
+                
             </section>
 
 
@@ -521,7 +334,7 @@ const Home = () => {
                 <div class="container">
                     <p>
                         &copy; <span id="displayDateYear"></span> All Rights Reserved By
-                        <a href="https://html.design/">Free Html Templates</a>
+                        <a href="https://it-support-services.netlify.app/">IT Support</a>
                     </p>
                 </div>
             </footer>
